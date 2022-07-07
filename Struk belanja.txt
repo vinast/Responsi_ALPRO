@@ -1,0 +1,24 @@
+||==============================================================||
+||                      TOKO ONLINE DRD 
+||==============================================================||
+||
+|| Riwayat Pemesanan...!!
+||
+|| Nama Lengkap User      : didik vinastu
+|| Alamat Pengiriman      : bandar jaya,Lampung tengah, Lampung
+|| Jasa Pengiriman        : hemat
+|| Total Belanja Anda     : Rp. 60000
+|| Biaya Asuransi         : Rp. 0
+|| Biaya Ongkir           : Rp. 20000
+|| Voucher Diskon         : Rp. 0
+|| Potongan Ongkir        : Rp. 4199136
+||
+|| Total Biaya Yang Harus Dibayar : Rp.-4119136
+|| Dibayar Dengan Saldo Anda.... 
+||
+|| Sisa Saldo Anda        : Rp.  24119136
+||
+||
+||
+||                         Pesanan Anda Sedang diPersiapkan...!!
+||==============================================================||
